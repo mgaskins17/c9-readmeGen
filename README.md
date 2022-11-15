@@ -33,3 +33,4 @@ This project has not had any TDD done
 Please refer to either my github or email with any questions you may have</br>
 https://github.com/EfSoren </br>
 ef.sorensen@me.com</br>
+Video Walkthrough - https://drive.google.com/file/d/11XUz1NyTt0DGZpzvXhrMGNpFIWABk27x/view
